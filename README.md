@@ -6,11 +6,11 @@ Examples:
     val name = "Matheus"
     name.dump()
     
-    //saida: STRING Matheus
+    //output: STRING Matheus
     
     val year = 2020
     year.dump()
     
-    //saida: INT: 2020
+    //output: INT: 2020
     
 ```
